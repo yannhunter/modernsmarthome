@@ -1,6 +1,7 @@
 # Modern Smart Home UI -- Flutter
 
-- [ModernSmartHome UI] (<img src="modernsmarthome/pic1.png" />).
+ (<img src="modernsmarthome/pic1.png" />).
+- [ModernSmartHome UI]
 
 A new Flutter project.
 
